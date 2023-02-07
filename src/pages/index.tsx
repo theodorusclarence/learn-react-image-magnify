@@ -43,8 +43,8 @@ export default function HomePage() {
               </ArrowLink>
             </p>
 
-            <ButtonLink className='mt-6' href='/components' variant='light'>
-              See all components
+            <ButtonLink className='mt-6' href='/magnify' variant='light'>
+              Magnify
             </ButtonLink>
 
             <UnstyledLink
